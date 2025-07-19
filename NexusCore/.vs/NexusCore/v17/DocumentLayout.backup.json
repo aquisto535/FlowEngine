@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2CA155-8502-0AE7-4DC8-D408EE4C3308}|..\\NexusCore.Tests.Networking\\NexusCore.Tests.Networking.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Networking\\NexusCore.Tests.Networking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B61C7F-23BA-9C2A-87A3-6F7D4164565D}|..\\NexusCore.Tests.Core\\NexusCore.Tests.Core.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Core\\NexusCore.Tests.Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDB6747-F13B-38F1-69ED-22BE58C86F9A}|..\\NexusCore.Tests.Common\\NexusCore.Tests.Common.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Common\\CommonTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740FA089-2C75-4806-84D4-897B8CF15142}|..\\Common\\Common.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Encryptor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740FA089-2C75-4806-84D4-897B8CF15142}|..\\Common\\Common.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740FA089-2C75-4806-84D4-897B8CF15142}|..\\Common\\Common.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740FA089-2C75-4806-84D4-897B8CF15142}|..\\Common\\Common.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Protocol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740FA089-2C75-4806-84D4-897B8CF15142}|..\\Common\\Common.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BFD17D-D63B-4CD6-83A8-AC3BC7B8EB9A}|..\\Server\\Server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Server\\AdminWebServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AB319-1710-7307-6F73-CC7C570FD1B0}|..\\MFC_Client\\MFC_Client.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ClientService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AB319-1710-7307-6F73-CC7C570FD1B0}|..\\MFC_Client\\MFC_Client.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\LoginDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AB319-1710-7307-6F73-CC7C570FD1B0}|..\\MFC_Client\\MFC_Client.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AB319-1710-7307-6F73-CC7C570FD1B0}|..\\MFC_Client\\MFC_Client.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150AB319-1710-7307-6F73-CC7C570FD1B0}|..\\MFC_Client\\MFC_Client.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\PacketHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B2AB9D-1E51-4D4B-A370-5C919014289A}|..\\Networking\\Networking.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Networking\\Networking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBF95D6-73CA-4E52-941A-BFE7BB1F0323}|..\\Core\\Core.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Core\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BFD17D-D63B-4CD6-83A8-AC3BC7B8EB9A}|..\\Server\\Server.vcxproj|C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NexusCore.Tests.Networking.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Networking\\NexusCore.Tests.Networking.cpp",
+              "RelativeDocumentMoniker": "..\\NexusCore.Tests.Networking\\NexusCore.Tests.Networking.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Networking\\NexusCore.Tests.Networking.cpp",
+              "RelativeToolTip": "..\\NexusCore.Tests.Networking\\NexusCore.Tests.Networking.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T06:29:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NexusCore.Tests.Core.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Core\\NexusCore.Tests.Core.cpp",
+              "RelativeDocumentMoniker": "..\\NexusCore.Tests.Core\\NexusCore.Tests.Core.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Core\\NexusCore.Tests.Core.cpp",
+              "RelativeToolTip": "..\\NexusCore.Tests.Core\\NexusCore.Tests.Core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T06:29:22.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonTests.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Common\\CommonTests.cpp",
+              "RelativeDocumentMoniker": "..\\NexusCore.Tests.Common\\CommonTests.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\NexusCore.Tests.Common\\CommonTests.cpp",
+              "RelativeToolTip": "..\\NexusCore.Tests.Common\\CommonTests.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T06:26:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encryptor.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Encryptor.h",
+              "RelativeDocumentMoniker": "..\\Common\\Encryptor.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Encryptor.h",
+              "RelativeToolTip": "..\\Common\\Encryptor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T06:14:51.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Utils.h",
+              "RelativeDocumentMoniker": "..\\Common\\Utils.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Utils.h",
+              "RelativeToolTip": "..\\Common\\Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T06:15:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Logger.h",
+              "RelativeDocumentMoniker": "..\\Common\\Logger.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Logger.h",
+              "RelativeToolTip": "..\\Common\\Logger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T06:14:39.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Protocol.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Protocol.h",
+              "RelativeDocumentMoniker": "..\\Common\\Protocol.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Protocol.h",
+              "RelativeToolTip": "..\\Common\\Protocol.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T06:13:06.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminWebServer.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Server\\AdminWebServer.h",
+              "RelativeDocumentMoniker": "..\\Server\\AdminWebServer.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Server\\AdminWebServer.h",
+              "RelativeToolTip": "..\\Server\\AdminWebServer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T05:48:21.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientService.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ClientService.h",
+              "RelativeDocumentMoniker": "..\\MFC_Client\\ClientService.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ClientService.h",
+              "RelativeToolTip": "..\\MFC_Client\\ClientService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T05:26:53.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDlg.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\LoginDlg.h",
+              "RelativeDocumentMoniker": "..\\MFC_Client\\LoginDlg.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\LoginDlg.h",
+              "RelativeToolTip": "..\\MFC_Client\\LoginDlg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T05:26:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerConnector.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ServerConnector.h",
+              "RelativeDocumentMoniker": "..\\MFC_Client\\ServerConnector.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ServerConnector.h",
+              "RelativeToolTip": "..\\MFC_Client\\ServerConnector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T05:23:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServerConnector.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ServerConnector.cpp",
+              "RelativeDocumentMoniker": "..\\MFC_Client\\ServerConnector.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\ServerConnector.cpp",
+              "RelativeToolTip": "..\\MFC_Client\\ServerConnector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T05:23:09.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacketHandler.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\PacketHandler.h",
+              "RelativeDocumentMoniker": "..\\MFC_Client\\PacketHandler.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\MFC_Client\\PacketHandler.h",
+              "RelativeToolTip": "..\\MFC_Client\\PacketHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-19T05:24:43.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Networking.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Networking\\Networking.cpp",
+              "RelativeDocumentMoniker": "..\\Networking\\Networking.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Networking\\Networking.cpp",
+              "RelativeToolTip": "..\\Networking\\Networking.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T10:09:12.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Core.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Core\\Core.cpp",
+              "RelativeDocumentMoniker": "..\\Core\\Core.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Core\\Core.cpp",
+              "RelativeToolTip": "..\\Core\\Core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T10:08:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Server\\Server.cpp",
+              "RelativeDocumentMoniker": "..\\Server\\Server.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Server\\Server.cpp",
+              "RelativeToolTip": "..\\Server\\Server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T10:07:32.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Protocol.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Protocol.cpp",
+              "RelativeDocumentMoniker": "..\\Common\\Protocol.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\FlowEngine\\Common\\Protocol.cpp",
+              "RelativeToolTip": "..\\Common\\Protocol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T06:13:35.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
