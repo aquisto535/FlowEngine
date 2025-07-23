@@ -77,6 +77,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NexusCore.Tests.Core.cpp",
@@ -86,8 +90,7 @@
               "RelativeToolTip": "..\\NexusCore.Tests.Core\\NexusCore.Tests.Core.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T06:29:22.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:29:22.925Z"
             },
             {
               "$type": "Document",
@@ -99,8 +102,7 @@
               "RelativeToolTip": "..\\NexusCore.Tests.Common\\CommonTests.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T06:26:26.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:26:26.246Z"
             },
             {
               "$type": "Document",
@@ -112,8 +114,7 @@
               "RelativeToolTip": "..\\Common\\Encryptor.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T06:14:51.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:14:51.452Z"
             },
             {
               "$type": "Document",
@@ -125,8 +126,7 @@
               "RelativeToolTip": "..\\Common\\Utils.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T06:15:04.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:15:04.141Z"
             },
             {
               "$type": "Document",
@@ -138,8 +138,7 @@
               "RelativeToolTip": "..\\Common\\Logger.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T06:14:39.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:14:39.037Z"
             },
             {
               "$type": "Document",
@@ -151,8 +150,7 @@
               "RelativeToolTip": "..\\Common\\Protocol.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T06:13:06.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:13:06.017Z"
             },
             {
               "$type": "Document",
@@ -164,8 +162,7 @@
               "RelativeToolTip": "..\\Server\\AdminWebServer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T05:48:21.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T05:48:21.369Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "..\\MFC_Client\\ClientService.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T05:26:53.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T05:26:53.442Z"
             },
             {
               "$type": "Document",
@@ -190,8 +186,7 @@
               "RelativeToolTip": "..\\MFC_Client\\LoginDlg.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T05:26:09.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T05:26:09.567Z"
             },
             {
               "$type": "Document",
@@ -203,8 +198,7 @@
               "RelativeToolTip": "..\\MFC_Client\\ServerConnector.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T05:23:05.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T05:23:05.869Z"
             },
             {
               "$type": "Document",
@@ -216,8 +210,7 @@
               "RelativeToolTip": "..\\MFC_Client\\ServerConnector.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T05:23:09.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T05:23:09.009Z"
             },
             {
               "$type": "Document",
@@ -229,8 +222,7 @@
               "RelativeToolTip": "..\\MFC_Client\\PacketHandler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-19T05:24:43.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T05:24:43.6Z"
             },
             {
               "$type": "Document",
@@ -242,8 +234,7 @@
               "RelativeToolTip": "..\\Networking\\Networking.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-18T10:09:12.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T10:09:12.713Z"
             },
             {
               "$type": "Document",
@@ -255,8 +246,7 @@
               "RelativeToolTip": "..\\Core\\Core.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-18T10:08:38.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T10:08:38.523Z"
             },
             {
               "$type": "Document",
@@ -268,8 +258,7 @@
               "RelativeToolTip": "..\\Server\\Server.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-18T10:07:32.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T10:07:32.036Z"
             },
             {
               "$type": "Document",
@@ -281,8 +270,7 @@
               "RelativeToolTip": "..\\Common\\Protocol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T06:13:35.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T06:13:35.255Z"
             }
           ]
         }
